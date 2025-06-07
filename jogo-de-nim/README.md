@@ -10,7 +10,7 @@ O Jogo de Nim é um jogo matemático de estratégia para duas pessoas. Ele funci
 
 - Ganha o jogador que pegar a última pedra do jogo.
 
-Embora pareça um jogo simples, existe uma estratégia matemática que permite ao jogador prever se está em uma posição vencedora ou perdedora. Essa estratégia envolve o uso do XOR binário (ou "Nim-sum") entre as pilhas.
+Embora pareça um jogo simples, existe uma estratégia matemática que permite ao jogador prever se está em uma posição vencedora ou perdedora. Essa estratégia envolve o uso do XOR binário entre as pilhas.
 
 ## O que este código faz:
 
